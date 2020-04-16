@@ -140,10 +140,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitPoints: 5
-  armorClass: 12
+  armorClass: 10
   taunts:
   - I'm Barold! Your mum says hi btw
-  - U come here often?
+  - Your mum is looking nice today
   slideInTime: 0.5
   deathDelay: 2
   deathFX: {fileID: 0}
