@@ -214,10 +214,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _name: '*Notice bulge*'
-  plusToHit: 4
+  plusToHit: -8
   attackRoll:
     dice: 5
-    amount: 2
+    amount: 9
   attackFX: {fileID: 573572236000190867, guid: 39ede76e57fac5d40b3e76907b9d2a1a, type: 3}
   myButton: {fileID: 8861686611824122839}
   attackNameText: {fileID: 8861686612307830370}
