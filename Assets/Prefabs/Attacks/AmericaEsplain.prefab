@@ -218,7 +218,7 @@ MonoBehaviour:
   attackRoll:
     dice: 3
     amount: 2
-  attackFX: {fileID: 5742553493949008054, guid: 828556ce9b5a10e45a8e5a9253f075ea,
+  attackFX: {fileID: 5742553493949008054, guid: 093c1997debf668499b168ea51dde54b,
     type: 3}
   myButton: {fileID: 8861686611824122839}
   attackNameText: {fileID: 8861686612307830370}
