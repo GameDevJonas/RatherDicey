@@ -719,6 +719,8 @@ MonoBehaviour:
   - {fileID: 8861686611824122837, guid: f16033866169f774d911f9c54a7da8ee, type: 3}
   - {fileID: 8861686611824122837, guid: 26a7fbed3a7faed419c28f469f5ea0fc, type: 3}
   - {fileID: 8861686611824122837, guid: 0a2d5c5cd9067ff42a8c557902dc0634, type: 3}
+  - {fileID: 8861686611824122837, guid: 2c4068a7245acb2458048fb1e0e99d45, type: 3}
+  - {fileID: 8861686611824122837, guid: f771c2ee3c1ddb546bbdeb4d816e6a54, type: 3}
   enemySpawnDelay: 2
   maxPitchVariance: 0.2
   enemySpawnPos: {fileID: 1838992148}
