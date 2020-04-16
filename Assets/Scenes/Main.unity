@@ -156,8 +156,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 29.799805, y: 464.36963}
-  m_SizeDelta: {x: -188.59998, y: -998.46}
+  m_AnchoredPosition: {x: 29.799805, y: 735.8}
+  m_SizeDelta: {x: 200, y: -493}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &175638488
 MonoBehaviour:
@@ -983,7 +983,6 @@ MonoBehaviour:
   - dicePrefab: {fileID: 2423207595445763287, guid: 762e22d803af6424b8a6df4081ae285a,
       type: 3}
     type: 5
-  diceSpawn: {fileID: 721016350}
   diceSound: {fileID: 721016353}
 --- !u!4 &721016352
 Transform:
