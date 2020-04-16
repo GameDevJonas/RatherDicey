@@ -619,6 +619,7 @@ MonoBehaviour:
   - {fileID: 2161620279223622106, guid: da9efcf24b7ebcc4a8c1c9223bede3bc, type: 3}
   - {fileID: 2161620279223622106, guid: 0140042ace6454448a864a8291b06db8, type: 3}
   - {fileID: 2161620279223622106, guid: cc6b507dc1fb4564191c753197bde0da, type: 3}
+  - {fileID: 2161620279223622106, guid: 2e62cb4aa8d3a5e4c9aa8dc05d4800c9, type: 3}
   attacks:
   - {fileID: 8861686611824122837, guid: bee47700ede0b2c478a8bdd316ca6f8d, type: 3}
   - {fileID: 8861686611824122837, guid: f16033866169f774d911f9c54a7da8ee, type: 3}
