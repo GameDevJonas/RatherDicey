@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d659a46f2df85224494a0daf089459d9, type: 2}
+  - {fileID: 2100000, guid: 5526ae73a85e51349825f143d058c38c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 5128812291613707245}
   - component: {fileID: 5240091962785643613}
   m_Layer: 0
-  m_Name: TheExplora
+  m_Name: DatBoi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,10 +139,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa559d35613532c4dae8fe83c6f2dffc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPoints: 20
-  armorClass: 3
+  hitPoints: 17
+  armorClass: 8
   taunts:
-  - ...
+  - Oh! Shit waddup!
+  - I be rolling down the street, i be rolling to the beat
   slideInTime: 0.5
   deathDelay: 2
   deathFX: {fileID: 0}
